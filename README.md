@@ -5,9 +5,7 @@
 
 <!-- 💜 FRASE -->
 <h3 align="center">✨ Apasionada por la tecnología ✨</h3>
-<p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/yessy2525/yessy2525/main/girl.png" />
-</p>
+
 <h3 align="center">Una apasionada, vivo en CHILE🇨🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yety2525&label=Profile%20views&color=0e75b6&style=flat" alt="yety2525" /> </p>
