@@ -6,7 +6,7 @@
 <!-- 💜 FRASE -->
 <h3 align="center">✨ Apasionada por la tecnología ✨</h3>
 <p align="center">
-  <img height="250" src="https://raw.githubusercontent.com/yessy2525/yessy2525/main/girl.png" />
+  <img width="500" src="https://raw.githubusercontent.com/yessy2525/yessy2525/main/girl.png" />
 </p>
 <h3 align="center">Una apasionada, vivo en CHILE🇨🇱</h3>
 
