@@ -5,7 +5,10 @@
 
 <!-- 💜 FRASE -->
 <h3 align="center">✨ Apasionada por la tecnología ✨</h3>
-
+<!-- GIF -->
+<p align="center">
+  <img height="220" src="URL_DEL_GIF_ANIMADO" />
+</p>
 
 <h3 align="center">Una apasionada, vivo en CHILE🇨🇱</h3>
 
