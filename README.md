@@ -2,7 +2,9 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cff,100:4b0082&height=200&section=header&text=Yessy%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
-
+<p align="center">
+  <img src="./anime-girl.png" width="300" />
+</p>
 <!-- 💜 FRASE -->
 <h3 align="center">✨ tecnología ✨</h3>
 
