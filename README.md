@@ -1,5 +1,7 @@
 
-<h1 align="center">Hola 👋, soy YESSY</h1>
+<h1 align="center">Hola 👋, soy YESSY</h1> <p align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+</p>
 <h3 align="center">Una apasionada, vivo en CHILE🇨🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yety2525&label=Profile%20views&color=0e75b6&style=flat" alt="yety2525" /> </p>
