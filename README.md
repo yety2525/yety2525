@@ -4,7 +4,7 @@
 </p>
 
 <!-- 💜 FRASE -->
-<h3 align="center">✨ Apasionada por la tecnología ✨</h3>
+<h3 align="center">✨ tecnología ✨</h3>
 
 <h3 align="center">Una apasionada, vivo en CHILE🇨🇱</h3>
 
