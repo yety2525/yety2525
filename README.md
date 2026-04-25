@@ -1,10 +1,6 @@
-HI HELLO YESSY
 
-1.APRENDIZ🤗
-
-2.APRENDIENDO ALGO NUEVO🐷
-<h1 align="center">Hi 👋, I'm YESSY</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'YESSY</h1>
+<h3 align="center">vivo en CHILE🇨🇱</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
